@@ -17,6 +17,7 @@ pytz==2021.3
 six==1.16.0
 sqlparse==0.4.2
 virtualenv==20.13.2
+whitenoise==6.0.0
 zope.component==5.0.1
 zope.deprecation==4.4.0
 zope.event==4.5.0
