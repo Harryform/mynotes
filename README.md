@@ -16,5 +16,4 @@ React <br/>
 Javascript <br/>
 HTML <br/>
 CSS <br/>
-Node <br/>
 Bootstrap <br/>
